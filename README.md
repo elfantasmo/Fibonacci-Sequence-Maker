@@ -3,8 +3,10 @@ This will make a fibonacci sequence with the length you would like it to.
 
 Usage:
 
-   ```chmod +x /fibonacci.py
-    ```
+
+First grant permissions:
+   ```chmod +x /fibonacci.py```
+Then use the code
     
-   ```./Fibonacci.py [Lenght]```
+   ```./fibonacci.py [Lenght]```
     
