@@ -6,6 +6,7 @@ Usage:
 
 First grant permissions:
    ```chmod +x /fibonacci.py```
+
 Then use the code
     
    ```./fibonacci.py [Lenght]```
