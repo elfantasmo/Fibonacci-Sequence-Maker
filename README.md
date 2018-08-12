@@ -1,5 +1,5 @@
 # Fibonacci-Sequence-Maker
-This will make a fibonacci sequence with the length you would like it to.
+This will make a compact, fast and simple fibonacci sequence with the length you would like it to.
 
 Usage:
 
