@@ -13,4 +13,4 @@ Then use the code
    
    
 
-Made in pythin :P
+Made in python :P
