@@ -6,15 +6,14 @@ Usage:
 
 First grant permissions:
   
-  ```Unix
-  chmod +x /fibonacci.py
-  ```
+  ```chmod +x /fibonacci.py```
+
 
 Then use the code
     
-   ```Unix
-   ./fibonacci.py [Lenght]
-   ```
+  
+  ``` ./fibonacci.py [Lenght]```
+
    
    
 
